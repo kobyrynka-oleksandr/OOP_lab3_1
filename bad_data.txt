@@ -1,0 +1,8 @@
+C:\C# Projects\OOP_lab3_1\12.txt
+C:\C# Projects\OOP_lab3_1\14.txt
+C:\C# Projects\OOP_lab3_1\15.txt
+C:\C# Projects\OOP_lab3_1\18.txt
+C:\C# Projects\OOP_lab3_1\20.txt
+C:\C# Projects\OOP_lab3_1\21.txt
+C:\C# Projects\OOP_lab3_1\22.txt
+C:\C# Projects\OOP_lab3_1\24.txt
